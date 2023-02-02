@@ -3,10 +3,10 @@
 ## Action
 
 ### URL
-LinkBehaviour_0D4473FE_13B0_C5B6_41A5_F886336E425C.source = https://wa.me/5583999358993
 LinkBehaviour_3B13B27B_12F3_C6BF_41B1_01BB58F7B26E.source = https://wa.me/5583999358993
-LinkBehaviour_3B10227C_12F3_C6B9_418A_59F4C035889C.source = https://wa.me/5583999970271
+LinkBehaviour_0D4473FE_13B0_C5B6_41A5_F886336E425C.source = https://wa.me/5583999358993
 LinkBehaviour_322C00CF_13B0_43D7_4195_CE3E913C3B37.source = https://wa.me/5583999970271
+LinkBehaviour_3B10227C_12F3_C6B9_418A_59F4C035889C.source = https://wa.me/5583999970271
 
 ## Hotspot
 
