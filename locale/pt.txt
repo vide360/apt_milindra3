@@ -1,0 +1,62 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_0D4473FE_13B0_C5B6_41A5_F886336E425C.source = https://wa.me/5583999358993
+LinkBehaviour_367BE616_1391_CE48_418E_1C194996B656.source = https://wa.me/5583999358993
+LinkBehaviour_36783618_1391_CE78_4183_52FECC0B27CA.source = https://wa.me/5583999970271
+LinkBehaviour_322C00CF_13B0_43D7_4195_CE3E913C3B37.source = https://wa.me/5583999970271
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_0D83FFDA_13B0_3DF9_4180_B6B7656D81A5.text = Apt 1301
+
+## Media
+
+### Audio
+audiores_34F6B7A0_13B0_CE49_41B0_D9A2C7CF9854.mp3Url = media/audio_36CFAA57_13B0_46F7_41AF_E1DD00EF51AA_pt.mp3
+
+### Image
+imlevel_30CA5821_13B0_424B_41B2_6D65E9BC6AEF.url = media/panorama_08BFB71D_12F0_CE7B_418F_BC01DF17B01D_HS_4tys9fol_pt.png
+
+### Title
+panorama_08BF01CC_12EF_C5D9_41AE_C02564287EA7.label = Closet Suíte Master
+panorama_09407F67_12EF_FEC8_41A6_4D9024BC63E9.label = Corredor
+panorama_09431BA4_12EF_C649_41AD_D66125B8420E.label = Cozinha
+panorama_0940676C_12EF_CED9_41B1_BFCCA9AE0FEF.label = Dependência de funcionarios
+panorama_09404440_12F0_42C9_41AF_AEFE5037907E.label = Entrada Principal
+panorama_08BF3113_12F0_424F_418C_03DAEA191793.label = Fachada
+panorama_09413F14_12F0_7E49_41AF_37CA37EF06A9.label = Garagem
+panorama_08BF2CE1_12F0_43C8_4164_DB7882858867.label = Lavabo
+panorama_08BEBA5B_12F0_46F8_41B0_82BE9156729E.label = Piscina
+panorama_0940D03E_12F0_C2B9_4199_F52244B783A0.label = Sala
+panorama_08BFB71D_12F0_CE7B_418F_BC01DF17B01D.label = Sala espera
+panorama_0940A402_12F0_C249_41A9_7C1B2417907E.label = Sala jogos
+panorama_08BF4C59_12F0_C2FB_41A9_70654BD80769.label = Suíte 1
+panorama_08BFF970_12F0_C2C9_419C_73B624692C47.label = Suíte 2
+panorama_08BFD676_12F0_4EC8_41A0_7B52E24F39F5.label = Suíte Master
+panorama_0941138B_12F0_465F_41AD_47D1C96ABC62.label = Varanda
+panorama_09409C59_12F0_42FB_4190_7BD4C2752AA6.label = Wc Suíte 2
+panorama_08BFBF98_12F0_7E78_41AA_833AE27DA4D9.label = Wc suíte 1
+panorama_0940190D_12F0_4258_41A9_2E08179EEBBE.label = Wc suíte master
+panorama_092136BE_1290_4FB9_41A0_C8FA96E30E33.label = Área de Serviço
+panorama_094184D7_12EF_C3F7_4192_19A0354D7CDC.label = Área festas
+
+## Skin
+
+### Image
+Image_0C1D9E99_13B0_3E7B_4198_3AA7AD1B9E3E_mobile.url = skin/Image_0C1D9E99_13B0_3E7B_4198_3AA7AD1B9E3E_mobile_pt.png
+Image_0C1D9E99_13B0_3E7B_4198_3AA7AD1B9E3E.url = skin/Image_0C1D9E99_13B0_3E7B_4198_3AA7AD1B9E3E_pt.png
+Image_32BC8766_13B0_CEC8_41AF_B5886A2BE265_mobile.url = skin/Image_32BC8766_13B0_CEC8_41AF_B5886A2BE265_mobile_pt.png
+Image_32BC8766_13B0_CEC8_41AF_B5886A2BE265.url = skin/Image_32BC8766_13B0_CEC8_41AF_B5886A2BE265_pt.png
+Image_32D2C237_13B0_46B7_418D_A42E90C36146_mobile.url = skin/Image_32D2C237_13B0_46B7_418D_A42E90C36146_mobile_pt.png
+Image_32D2C237_13B0_46B7_418D_A42E90C36146.url = skin/Image_32D2C237_13B0_46B7_418D_A42E90C36146_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = apt_milindra3
